@@ -1,5 +1,7 @@
 # Coastal-Explorer
 
+<img src="https://github.com/JasmineGraut/Coastal-Explorer/blob/main/ce.png"/>
+
 ___
 
 +  ***Coastal Explorer is a sophisticated, full-featured, easy-to-use navigation software package designed specifically for the pleasure boater***
@@ -10,4 +12,4 @@ ___
 
 +  ___
 
-+  
+<img src="https://github.com/JasmineGraut/Coastal-Explorer/blob/main/st.png"/>  
